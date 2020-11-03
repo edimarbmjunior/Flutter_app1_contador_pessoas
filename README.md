@@ -1,6 +1,6 @@
-# app1contadorpessoas
+# APP contadorpessoas
 
-A new Flutter application.
+A new Flutter application. Starting to learn about the flutter.
 
 ## Getting Started
 
